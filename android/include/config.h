@@ -13,7 +13,6 @@
 #define EXTERN_ASM 
 #define SLIBSUF ".so"
 #define HAVE_MMX2 HAVE_MMXEXT
-#define ARCH_AARCH64 0
 #define ARCH_ALPHA 0
 #define ARCH_AVR32 0
 #define ARCH_AVR32_AP 0
